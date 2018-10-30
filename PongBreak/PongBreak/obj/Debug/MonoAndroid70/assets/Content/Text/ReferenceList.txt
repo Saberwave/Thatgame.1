@@ -1,0 +1,18 @@
+﻿Reference OnTouchesBegan in levelSelect.cs, jaybers, stackoverflow, 
+https://stackoverflow.com/questions/33168953/android-game-drag-one-image-at-a-time-into-screen-from-a-group-of-images
+I couldn't figure out how to use Cocossharp's menu functionality (particularly the use of
+CCMenu and CCMenuItem, respectively). The stackoverflow answer by jaybers allowed us to create
+a similar type of effect using CCSprite.
+
+Reference CreateBackGround in LevelOne.cs, LevelTwo.c, LevelThree.cs,
+https://www.youtube.com/watch?v=dcLAj4MqeYs&t=1877s
+I wanted to create a tileable background using CocosSharp but had some troubles making it display properly.
+In part 4 of Luke's Youtube tutorial series, he displays code that creates a repeatable background using
+the CreateBackground method. The code has been altered slightly for this project, as it has different
+argument requirements and variable names.
+
+Disclaimer: the final level theme is based on space invaders. None of the project members own Space Invaders,
+that property belongs to the rightful owner Tomohiro Nishikado and Taito.
+
+All art assets were made by Jordan using the tool Aseprite.
+All sound assets were made by Jordan using the tool Bosca Ceoil.
